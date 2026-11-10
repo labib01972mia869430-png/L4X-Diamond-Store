@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "L4X DIAMOND STORE";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL LINKhttps:
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/Labib6T9bye";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/L4XDIAMONDSTORE";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// YOUTUBE CHANNEL LINK 
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://www.youtube.com/@L4X-DIAMOND-STORE";
 
 // =======================================================
 // NOTIFICATION TEXT
